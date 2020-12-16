@@ -16,12 +16,12 @@ int main(){
 }
 vector <int> test(vector <int>& arr){
 	vector <int> temp;
+	int sum = 1;
 	for(int i=0; i<arr.size(); i++){
-		int sum = 1;
-		for(int j=0; j<arr.size(); j++){
-			if(i!=j) sum*=arr[j];
-		}
-		temp.push_back(sum);
+		sum*=arr[i];
+	}
+	for(int i=0; i<arr.size(); i++){
+		temp.push_back(sum/arr[i]);
 	}
 	return temp;
 }

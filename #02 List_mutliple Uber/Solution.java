@@ -5,9 +5,10 @@ import  java.util.*;
         for(int i:temp) {
             int sum = 1;
             for (int j : temp) {
-                if (i != j) sum *= j;
+                sum*=j;
             }
-            list.add(sum);
+	for(int i=0; i<temp.length; i++)
+            list.add(sum/arr[i]);
         }
     return list;
     }

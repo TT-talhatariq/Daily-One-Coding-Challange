@@ -1,11 +1,10 @@
 def test(temp):
      new_list = list()
+     total = 1
      for i in temp:
-          total = 1
-          for j in temp:
-               if i!=j:
-                   total*=j
-          new_list.append(total)
+          total*=i
+     for j in temp:
+          new_list.append(total/j)
      return new_list
 
 
