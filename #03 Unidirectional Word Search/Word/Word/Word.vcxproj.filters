@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Minimum.cpp">
+    <ClCompile Include="Underactional Word.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
