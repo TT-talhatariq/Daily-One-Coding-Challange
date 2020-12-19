@@ -1,9 +1,0 @@
-﻿  Underactional Word.cpp
-d:\3rd\my own\daily coding problem\#03 unidirectional word search\word\word\underactional word.cpp(12): warning C4018: '<': signed/unsigned mismatch
-d:\3rd\my own\daily coding problem\#03 unidirectional word search\word\word\underactional word.cpp(22): warning C4018: '<': signed/unsigned mismatch
-d:\3rd\my own\daily coding problem\#03 unidirectional word search\word\word\underactional word.cpp(34): warning C4018: '<': signed/unsigned mismatch
-d:\3rd\my own\daily coding problem\#03 unidirectional word search\word\word\underactional word.cpp(36): warning C4018: '<': signed/unsigned mismatch
-d:\3rd\my own\daily coding problem\#03 unidirectional word search\word\word\underactional word.cpp(50): warning C4018: '<': signed/unsigned mismatch
-d:\3rd\my own\daily coding problem\#03 unidirectional word search\word\word\underactional word.cpp(52): warning C4018: '<': signed/unsigned mismatch
-  Word.vcxproj -> D:\3rd\My Own\Daily Coding Problem\#03 Unidirectional Word Search\Word\Debug\Word.exe
-  Word.vcxproj -> D:\3rd\My Own\Daily Coding Problem\#03 Unidirectional Word Search\Word\Debug\Word.pdb (Full PDB)
