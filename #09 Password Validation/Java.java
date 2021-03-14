@@ -6,7 +6,7 @@ import java.lang.Character;
 class Main {
 
   public static String CodelandUsernameValidation(String str) {
-    // code goes here 
+ 
 	if (str.length() > 25 || str.length() < 4)
 			return "false";
 	if (!Character.isLetter(str.charAt(0)))
